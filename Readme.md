@@ -1,6 +1,6 @@
-# Invert.Io - Google Chrome Extension<img align="center" width="60" height="50" src="images/logo.png">
+# Invert.Io - Google Chrome Extension
 
-## WBored of looking at websites the same way? Meet Invert.io, a chrome extension that can change your website from dark mood to light mode and vice versa! .
+## Bored of looking at websites the same way? Meet Invert.io, a chrome extension that can change your website from dark mood to light mode and vice versa! .
 
 ---
 
